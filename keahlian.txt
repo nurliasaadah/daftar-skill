@@ -13,4 +13,12 @@
 -Administrasi infrastruktur jaringan
 -wide area network
 -bimbingan konseling
-dan lain lain
+
+++ skill yang diperoleh dirucom ++
+-mengetik 10 jari
+-freecodecamp.org responsive web design(html,css,hand.javascript
+-boottable linux
+-visual studio code
+-sololearn (introduction to html,jQuery,introduction JavaScript,coding for marketers,introduction to CSS, Responsive web design,Web development fundamentals)
+-buat akun Linkedin dan mengubungkan sertifikasi sololearn
+-
